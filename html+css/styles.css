@@ -1,0 +1,48 @@
+header{
+    background-color: rgb(196, 196, 196);
+    text-align: center;
+    width: 60%;
+    margin:auto;
+   
+    
+    height: 125px;
+    top: 50%;
+    bottom: 50%;
+    padding: 10px 0;
+}
+h1{
+    font-size: 45px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+h2{
+    text-align: center;
+    padding-top: 30px;
+}
+img{
+    size: 600px;
+    margin-top: 25px;
+    border-radius: 350%;
+}
+#pagebody{
+    position: relative;
+    top:670px;
+    background-color: rgb(196, 196, 196);
+    width: 60%;
+    margin:auto;
+   
+}
+li{
+    font-weight: bold;
+    padding-top: 20px;
+}
+ul{
+    width: 70%;
+    margin: auto;
+}
+p{
+    position: relative;
+    width: 500px;
+    text-align: left;
+    left: 15px;
+}
