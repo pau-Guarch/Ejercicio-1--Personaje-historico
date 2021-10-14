@@ -3,8 +3,6 @@ header{
     text-align: center;
     width: 60%;
     margin:auto;
-   
-    
     height: 125px;
     top: 50%;
     bottom: 50%;
@@ -30,19 +28,33 @@ img{
     background-color: rgb(196, 196, 196);
     width: 60%;
     margin:auto;
-   
+    padding-bottom: 30px;
 }
 li{
     font-weight: bold;
-    padding-top: 20px;
+    padding-top: 25px;
+    padding-bottom: 0px;
 }
 ul{
     width: 70%;
     margin: auto;
 }
-p{
+article{
     position: relative;
     width: 500px;
     text-align: left;
-    left: 15px;
+    /* left:0px; */
+    padding-top: 5px;
+    margin:auto;
+}
+figcaption{
+    padding-top: 10px;
+}
+footer{
+    position: relative;
+    background-color: rgb(196, 196, 196);
+    width: 80%;
+    margin:auto;
+    height: 100px;
+    top:652px;
 }
